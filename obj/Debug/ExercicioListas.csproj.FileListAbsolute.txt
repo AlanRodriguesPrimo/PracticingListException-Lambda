@@ -1,0 +1,7 @@
+C:\Users\Alan Rodrigues Primo\source\repos\ExercicioListas\bin\Debug\ExercicioListas.exe.config
+C:\Users\Alan Rodrigues Primo\source\repos\ExercicioListas\bin\Debug\ExercicioListas.exe
+C:\Users\Alan Rodrigues Primo\source\repos\ExercicioListas\bin\Debug\ExercicioListas.pdb
+C:\Users\Alan Rodrigues Primo\source\repos\ExercicioListas\obj\Debug\ExercicioListas.csproj.AssemblyReference.cache
+C:\Users\Alan Rodrigues Primo\source\repos\ExercicioListas\obj\Debug\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\Alan Rodrigues Primo\source\repos\ExercicioListas\obj\Debug\ExercicioListas.exe
+C:\Users\Alan Rodrigues Primo\source\repos\ExercicioListas\obj\Debug\ExercicioListas.pdb
